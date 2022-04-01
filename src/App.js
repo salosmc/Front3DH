@@ -1,8 +1,9 @@
-function App() {
-  return (
-    <div className="App">
-    </div>
-  );
-}
+import Relato from './components/Relato';
 
+function App() {
+
+  return(
+    <Relato />
+  )
+}
 export default App;
